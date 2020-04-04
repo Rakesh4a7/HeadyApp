@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7598e0da-6a22-4879-90b7-b7c475a89eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_16_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/AppComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/category_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/default_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_action_sort.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/heady/ecommerce/DebugBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/com/example/headyapp/DebugBaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/heady/ecommerce/api/MockApiModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/com/example/headyapp/api/MockApiModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/heady/ecommerce/api/MockApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/com/example/headyapp/api/MockApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/AppComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/AppModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/AppModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/BaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/BaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/BaseDrawerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/BaseDrawerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/BaseFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/BaseToolBarActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/BaseToolBarActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/api/ApiModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/api/ApiModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/api/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/api/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/CartDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/CartDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/ParentChildCategoryMappingDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/ParentChildCategoryMappingDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/ProductRankingDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/ProductRankingDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/ProductTaxDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/ProductTaxDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/TaxDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/TaxDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/VariantDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/VariantDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/DataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalCartData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalCartData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalCategoryData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalCategoryData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalParentChildCategoryMappingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalParentChildCategoryMappingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalProductData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalProductData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalProductRankingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalProductRankingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalProductTaxData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalProductTaxData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalTaxData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalTaxData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/LocalVariantData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/LocalVariantData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dao/repo/RepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dao/repo/RepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/database/AppDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/database/AppDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/dialog/LoadingDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/dialog/LoadingDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/CartScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/CartScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/cartdetails/Contracts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/cartdetails/Contracts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/CategoryComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/CategoryComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/CategoryListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/CategoryListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/CategoryListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/CategoryListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/CategoryListPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/CategoryListPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/CategoryModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/CategoryModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/CategoryScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/CategoryScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/Contracts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/Contracts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/SubCategoryListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/SubCategoryListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/adapter/CategoryGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/adapter/CategoryGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/adapter/CategoryListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/adapter/CategoryListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/adapter/ChildCategoryViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/adapter/ChildCategoryViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/adapter/ParentCategoryViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/adapter/ParentCategoryViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/categorylist/adapter/SubCategoryListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/categorylist/adapter/SubCategoryListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/Contracts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/Contracts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/ProductDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/ProductDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/ProductDetailComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/ProductDetailComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/ProductDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/ProductDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/ProductDetailModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/ProductDetailModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/ProductDetailPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/ProductDetailPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/ProductDetailScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/ProductDetailScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/VariantBottomSheetDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/VariantBottomSheetDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productdetails/VariantListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productdetails/VariantListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/Contracts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/Contracts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/ProductListScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/ProductListScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/domain/productlist/SortBottomSheetDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/domain/productlist/SortBottomSheetDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/CartSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/CartSummary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/MasterdataDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/MasterdataDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/ProductRankingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/ProductRankingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/RankingCategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/RankingCategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/TaxDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/TaxDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/response/VariantDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/response/VariantDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/ParentChildCategoryMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/ParentChildCategoryMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/ProductRanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/ProductRanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/ProductTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/ProductTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/Tax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/relation/CartDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/relation/CartDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/relation/CategoryAndMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/relation/CategoryAndMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/relation/ProductAndVariant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/relation/ProductAndVariant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/model/roomentities/relation/ProductDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/model/roomentities/relation/ProductDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/util/ActivityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/util/ActivityUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heady/ecommerce/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/headyapp/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_action_sort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_action_sort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_action_sort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_action_sort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-xxxhdpi/ic_action_sort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/template_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layouts/cartdetails/layout/item_cart_product_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layouts/cartdetails/layout/item_cart_product_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layouts/categorylist/layout/fragment_category_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layouts/categorylist/layout/fragment_category_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layouts/categorylist/layout/item_category.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layouts/categorylist/layout/item_category.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layouts/productdetails/layout/fragment_product_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layouts/productdetails/layout/fragment_product_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layouts/productlist/layout/item_product.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layouts/productlist/layout/item_product.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/heady/ecommerce/APIAvailabilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/headyapp/APIAvailabilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/heady/ecommerce/CategoryListPresenterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/headyapp/CategoryListPresenterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/heady/ecommerce/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/headyapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buildsystem/dependencies.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../buildsystem/dependencies.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layouts/productlist/layout/fragment_product_list.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="55" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/res/layouts/productlist/layout/fragment_product_list.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_1_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_framework_1_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_common_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_migration_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_runtime_1_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_rxjava2_1_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_testing_1_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_2_16_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_8_8_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_8_8_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_recyclerview_v7_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_6_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_10_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_adapter_rxjava2_2_3_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_3_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_3_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtbot_expandablerecyclerview_1_3_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_10_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxkotlin_2_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_9_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_7_9_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_9_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_41_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_15_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="ic_action_shopping_cart" type="c431d0b8:AndroidResGroupNode" />
+            </path>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="ECommHeadyAssignment" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7598e0da-6a22-4879-90b7-b7c475a89eba" name="Default Changelist" comment="" />
+      <created>1585978471315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585978471315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.3297568" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="Find" weight="0.32944608" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49928468" visible="true" weight="0.32944608" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Fabric" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-907">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/drawable/ic_action_sort.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layouts/productlist/layout/fragment_product_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>
